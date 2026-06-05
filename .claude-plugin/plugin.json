@@ -1,0 +1,19 @@
+{
+  "name": "ocrmypdf-skills",
+  "version": "1.0.0",
+  "description": "OCRmyPDF skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/ocrmypdf-skills",
+  "repository": "https://github.com/full-statck-skills/ocrmypdf-skills",
+  "source": "./",
+  "skills": [
+    "./skills/ocrmypdf-api",
+    "./skills/ocrmypdf-batch",
+    "./skills/ocrmypdf-image",
+    "./skills/ocrmypdf-optimize",
+    "./skills/ocrmypdf"
+  ]
+}
