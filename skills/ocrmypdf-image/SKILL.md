@@ -1,5 +1,6 @@
 ---
 name: ocrmypdf-image
+license: Apache-2.0
 description: OCRmyPDF image processing skill — deskew, rotate, clean, despeckle, remove border from scanned documents. Use when the user needs to improve scanned PDF quality, fix skewed pages, remove noise, or clean up scanned documents before OCR.
 ---
 

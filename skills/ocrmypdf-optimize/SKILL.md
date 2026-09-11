@@ -1,5 +1,6 @@
 ---
 name: ocrmypdf-optimize
+license: Apache-2.0
 description: OCRmyPDF optimization skill — compress PDFs, configure PDF/A output, JBIG2 encoding, and lossless optimization. Use when the user needs to reduce PDF file size, create archival PDF/A files, or optimize OCR output.
 ---
 

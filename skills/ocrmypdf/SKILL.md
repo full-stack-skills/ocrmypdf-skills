@@ -1,5 +1,6 @@
 ---
 name: ocrmypdf
+license: Apache-2.0
 description: OCRmyPDF core skill — add searchable OCR text layer to scanned PDFs, convert images to searchable PDFs, support 100+ languages via Tesseract. Use when the user needs to OCR a PDF, make a scanned PDF searchable, or extract text from scanned documents.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: ocrmypdf-api
+license: Apache-2.0
 description: OCRmyPDF Python API and plugin skill — use OCRmyPDF programmatically from Python, integrate with applications, and extend with plugins (EasyOCR, PaddleOCR, AppleOCR). Use when the user needs to call OCRmyPDF from Python code, build OCR pipelines, or use alternative OCR engines.
 ---
 

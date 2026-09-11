@@ -1,5 +1,6 @@
 ---
 name: ocrmypdf-batch
+license: Apache-2.0
 description: OCRmyPDF batch processing skill — process multiple PDFs, Docker automation, shell scripting, and CI/CD integration. Use when the user needs to OCR many PDFs, set up automated OCR pipelines, or integrate OCR into workflows.
 ---
 
