@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ocrmypdf"
+  short_description: "OCRmyPDF core skill — add searchable OCR text layer to scanned…"
+  default_prompt: "Use $ocrmypdf to help with my current task: OCRmyPDF core skill — add searchable OCR text layer to scanned PDFs, convert images to searchable PDFs, support 100+ languages via Tesseract."

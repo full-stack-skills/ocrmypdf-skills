@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ocrmypdf Optimize"
+  short_description: "OCRmyPDF optimization skill — compress PDFs, configure PDF/A…"
+  default_prompt: "Use $ocrmypdf-optimize to help with my current task: OCRmyPDF optimization skill — compress PDFs, configure PDF/A output, JBIG2 encoding, and lossless optimization."

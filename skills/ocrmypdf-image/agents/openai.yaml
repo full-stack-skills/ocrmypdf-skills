@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ocrmypdf Image"
+  short_description: "OCRmyPDF image processing skill — deskew, rotate, clean…"
+  default_prompt: "Use $ocrmypdf-image to help with my current task: OCRmyPDF image processing skill — deskew, rotate, clean, despeckle, remove border from scanned documents."

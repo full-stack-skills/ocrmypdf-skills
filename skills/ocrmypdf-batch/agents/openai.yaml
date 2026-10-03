@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ocrmypdf Batch"
+  short_description: "OCRmyPDF batch processing skill — process multiple PDFs…"
+  default_prompt: "Use $ocrmypdf-batch to help with my current task: OCRmyPDF batch processing skill — process multiple PDFs, Docker automation, shell scripting, and CI/CD integration."
